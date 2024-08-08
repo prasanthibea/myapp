@@ -1,0 +1,16 @@
+.table-style {
+  width: 800px;
+  height: 200Px;
+  border-collapse: collapse;
+}
+
+.table-head-style {
+  border-bottom: 1px solid black;
+  border: 2px solid black;
+
+}
+
+.table-row-style {
+  text-align: center;
+  border: 2px solid black;
+}
